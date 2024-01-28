@@ -1,0 +1,210 @@
+{
+  "/manojkanisol.github.io/blog-06f": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "f6c8137d"
+  },
+  "/manojkanisol.github.io/blog/archive-cef": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "archive": "ff8df754"
+  },
+  "/manojkanisol.github.io/blog/first-blog-post-82c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/manojkanisol.github.io/blog/long-blog-post-532": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/manojkanisol.github.io/blog/mdx-blog-post-538": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/manojkanisol.github.io/blog/tags-97d": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "tags": "28e58ebd"
+  },
+  "/manojkanisol.github.io/blog/tags/docusaurus-f44": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "223a1d65",
+    "listMetadata": "cd71d22a"
+  },
+  "/manojkanisol.github.io/blog/tags/facebook-0f3": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "e2ab3196",
+    "listMetadata": "85409f5a"
+  },
+  "/manojkanisol.github.io/blog/tags/hello-f3b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "4dad1e7b",
+    "listMetadata": "208b742d"
+  },
+  "/manojkanisol.github.io/blog/tags/hola-bb9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "72067b4b",
+    "listMetadata": "a411312f"
+  },
+  "/manojkanisol.github.io/blog/welcome-33b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4bf3f3ad"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/manojkanisol.github.io/markdown-page-9ce": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "b59cb824"
+    },
+    "content": "393be207"
+  },
+  "/manojkanisol.github.io/docs-54c": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "b85303f2"
+    }
+  },
+  "/manojkanisol.github.io/docs-d4f": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/manojkanisol.github.io/docs-f74": {
+    "__comp": "a94703ab"
+  },
+  "/manojkanisol.github.io/docs/category/tutorial---basics-ccb": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "5702e56b"
+  },
+  "/manojkanisol.github.io/docs/category/tutorial---extras-23c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "75dc644c"
+  },
+  "/manojkanisol.github.io/docs/intro-936": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/congratulations-d5a": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/create-a-blog-post-e22": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/create-a-document-5dc": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/create-a-page-62b": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/deploy-your-site-6c6": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/manojkanisol.github.io/docs/tutorial-basics/markdown-features-05e": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/manojkanisol.github.io/docs/tutorial-extras/manage-docs-versions-145": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/manojkanisol.github.io/docs/tutorial-extras/translate-your-site-b87": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/manojkanisol.github.io/-460": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "b59cb824"
+    },
+    "config": "5e9f5e1a"
+  }
+}
