@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmyproscore=self.webpackChunkmyproscore||[]).push([[1498],{1421:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/manojkanisol.github.io/blog/tags/hola","allTagsPath":"/manojkanisol.github.io/blog/tags","count":1,"unlisted":false}')}}]);
