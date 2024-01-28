@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmyproscore=self.webpackChunkmyproscore||[]).push([[2319],{2221:o=>{o.exports=JSON.parse('{"permalink":"/manojkanisol.github.io/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
