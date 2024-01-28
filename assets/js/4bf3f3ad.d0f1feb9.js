@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyproscore=self.webpackChunkmyproscore||[]).push([[2806],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
