@@ -1,0 +1,16 @@
+{
+  "title": "Courses - API",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/courses---api",
+  "permalink": "/docs/category/courses---api",
+  "navigation": {
+    "previous": {
+      "title": "Registration",
+      "permalink": "/docs/onboarding/register"
+    },
+    "next": {
+      "title": "myCourses",
+      "permalink": "/docs/courses/myCourses"
+    }
+  }
+}

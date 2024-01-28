@@ -1,0 +1,24 @@
+{
+  "id": "onboarding/register",
+  "title": "Registration",
+  "description": "",
+  "source": "@site/docs/onboarding/register.md",
+  "sourceDirName": "onboarding",
+  "slug": "/onboarding/register",
+  "permalink": "/docs/onboarding/register",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/onboarding/register.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account - API",
+    "permalink": "/docs/category/account---api"
+  },
+  "next": {
+    "title": "Courses - API",
+    "permalink": "/docs/category/courses---api"
+  }
+}
